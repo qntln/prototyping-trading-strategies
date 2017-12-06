@@ -1,0 +1,19 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+pandas = "==0.21.0"
+plotly = "==2.2.1"
+jupyter = "==1.0.0"
+scipy = "==1.0.0"
+statsmodels = "==0.8.0"
+numpy = "==1.13.3"
+
+
+[dev-packages]
+
